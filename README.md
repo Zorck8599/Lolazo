@@ -1,2 +1,2 @@
 # Lolazo
-Vamu a calmarno
+Desarrollo Practica
